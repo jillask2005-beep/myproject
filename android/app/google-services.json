@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627925838426",
+    "project_id": "emailauth-16d21",
+    "storage_bucket": "emailauth-16d21.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627925838426:android:a1f5e1f29672a092ddc663",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSc9bQaEocU3AOcN8_2gVWRh4O_X538q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
